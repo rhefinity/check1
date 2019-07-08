@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Check1", "Check1\Check1.dtproj", "{4BB43001-ECDE-479C-BEC3-179AFD039042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB43001-ECDE-479C-BEC3-179AFD039042}.Development|Default.ActiveCfg = Development
+		{4BB43001-ECDE-479C-BEC3-179AFD039042}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BE14117-D55A-4C3C-90BC-EC5429A68EB7}
+	EndGlobalSection
+EndGlobal
